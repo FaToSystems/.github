@@ -7,4 +7,4 @@
 
 <br>
 
-FaTo Systems develops systems exploring the potential of technology in scientific research and industry, mainly in Physics Simulation Software.
+From physical simulations to business insights — FaTo Systems delivers simulations, data science and AI-driven solutions rooted in scientific rigor.
